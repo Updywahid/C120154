@@ -17,7 +17,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Center(child: Text('Creating a restaurent Menu')),
+        title: Center(child: Text('Resturant Menues')),
       ),
       body: SafeArea(
         child: Column(
